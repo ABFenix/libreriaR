@@ -8,4 +8,5 @@
 #' suma.dos.numeros(10, 1)   return 11
 #' suma.dos.numeros(10)      return 10
 #' suma.dos.numeros(10.1)    return 10.1
+#' @export
 suma.dos.numeros <- function (x,y=0) return (x+y)

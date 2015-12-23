@@ -21,6 +21,6 @@ Create an (nxm) 0's matrix
 matrix.zero(4, 5)    
 matrix.zero(4)   
 matrix.zero()      
-matrix.zero(5,4)    
+matrix.zero(5,4) 
 }
 
