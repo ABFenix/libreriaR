@@ -1,4 +1,4 @@
-#' Add two numbers.
+#' Add two numbers
 #' 
 #' @param x A number.
 #' @param y A number. Default value, 0
