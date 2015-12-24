@@ -18,9 +18,9 @@ The sum of {x} and {y}.
 Add two numbers
 }
 \examples{
-suma.dos.numeros(1, 1)    return 2
-suma.dos.numeros(10, 1)   return 11
-suma.dos.numeros(10)      return 10
-suma.dos.numeros(10.1)    return 10.1
+suma.dos.numeros(1, 1)
+suma.dos.numeros(10, 1)
+suma.dos.numeros(10)
+suma.dos.numeros(10.1)
 }
 
