@@ -18,9 +18,9 @@ A zeros matrix. Dimensions: rows number = {n}; columns number = {m}.
 Create an (nxm) 0's matrix
 }
 \examples{
-matrix.zero(4, 5)    
-matrix.zero(4)   
-matrix.zero()      
-matrix.zero(5,4) 
+matrix.zero(4, 5)
+matrix.zero(4)
+matrix.zero()
+matrix.zero(5,4)
 }
 
