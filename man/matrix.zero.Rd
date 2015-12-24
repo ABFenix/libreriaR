@@ -9,7 +9,7 @@ matrix.zero(n = 1, m = 1)
 \arguments{
 \item{n}{An integer. Default value, 1}
 
-\item{y}{An integer. Default value, 1}
+\item{m}{An integer. Default value, 1}
 }
 \value{
 A zeros matrix. Dimensions: rows number = {n}; columns number = {m}.

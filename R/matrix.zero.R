@@ -1,7 +1,7 @@
 #' Create an (nxm) 0's matrix
 #'
 #' @param n An integer. Default value, 1
-#' @param y An integer. Default value, 1
+#' @param m An integer. Default value, 1
 #' @return A zeros matrix. Dimensions: rows number = {n}; columns number = {m}.
 #' @examples
 #' matrix.zero(4, 5)    
